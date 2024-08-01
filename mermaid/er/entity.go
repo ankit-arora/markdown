@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/nao1215/markdown/internal"
+	"github.com/ankit-arora/markdown/internal"
 )
 
 // Entity is a entity of entity relationship.

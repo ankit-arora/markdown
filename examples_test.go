@@ -5,8 +5,8 @@ package markdown_test
 import (
 	"os"
 
-	md "github.com/nao1215/markdown"
-	"github.com/nao1215/markdown/mermaid/sequence"
+	md "github.com/ankit-arora/markdown"
+	"github.com/ankit-arora/markdown/mermaid/sequence"
 )
 
 // ExamleMarkdown skip this test on Windows.

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/nao1215/markdown/internal"
+	"github.com/ankit-arora/markdown/internal"
 )
 
 // Diagram is a entity relationship diagram builder.

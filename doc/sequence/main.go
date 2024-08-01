@@ -7,8 +7,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/nao1215/markdown"
-	"github.com/nao1215/markdown/mermaid/sequence"
+	"github.com/ankit-arora/markdown"
+	"github.com/ankit-arora/markdown/mermaid/sequence"
 )
 
 //go:generate go run main.go

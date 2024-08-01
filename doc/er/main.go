@@ -6,8 +6,8 @@ package main
 import (
 	"os"
 
-	"github.com/nao1215/markdown"
-	"github.com/nao1215/markdown/mermaid/er"
+	"github.com/ankit-arora/markdown"
+	"github.com/ankit-arora/markdown/mermaid/er"
 )
 
 //go:generate go run main.go

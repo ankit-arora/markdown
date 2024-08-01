@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/ankit-arora/markdown/internal"
 	"github.com/google/go-cmp/cmp"
-	"github.com/nao1215/markdown/internal"
 )
 
 func TestPlainText(t *testing.T) {

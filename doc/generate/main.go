@@ -6,7 +6,7 @@ package main
 import (
 	"os"
 
-	md "github.com/nao1215/markdown"
+	md "github.com/ankit-arora/markdown"
 )
 
 //go:generate go run main.go

@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/nao1215/markdown/internal"
+	"github.com/ankit-arora/markdown/internal"
 )
 
 // Flowchart is a flowchart builder.

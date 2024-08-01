@@ -7,8 +7,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/nao1215/markdown"
-	"github.com/nao1215/markdown/mermaid/flowchart"
+	"github.com/ankit-arora/markdown"
+	"github.com/ankit-arora/markdown/mermaid/flowchart"
 )
 
 //go:generate go run main.go

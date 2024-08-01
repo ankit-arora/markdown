@@ -1,4 +1,4 @@
-module github.com/nao1215/markdown
+module github.com/ankit-arora/markdown
 
 go 1.20
 
